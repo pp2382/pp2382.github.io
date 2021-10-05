@@ -1,0 +1,168 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>Paul Piveteau</title>
+
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> -->
+
+<meta name="viewport" content="width=device-width">
+
+<link href="/docs/sais_logo.png" rel="icon">
+
+<link rel="stylesheet" href="/css/style.css" type="text/css">
+
+</head>
+
+<body>
+
+<div id="content" >
+
+<div id="left-column"><br></div>
+
+<div id="wrapper">
+
+<div id="header" >
+
+<table width=100%>
+
+<tr>
+
+<td><h1>Paul Piveteau</h1>
+
+<h2>Assistant Professor of International Economics</h2>
+<h2>School of Advanced International Studies</h2>
+<h2>Johns Hopkins University</h2>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+<table width=100%>
+
+<tr>
+
+<td>
+
+<br>
+
+<strong>Mailing Address</strong><br>
+School of Advanced International Studies <br>
+Johns Hopkins University <br>
+Office B707 <br>
+
+1717 Massachusetts Avenue NW <br>
+
+Washington DC, 20036 <br>
+
+<br>
+  
+<strong>Contact information</strong> <br>
+
+Email: <a href="mailto:ppiveteau@jhu.edu" target="_blank" rel="external">ppiveteau@jhu.edu</a> <br>  
+Phone: 202 663 5977<br>
+
+<br>  
+
+
+<strong>Curriculum Vitae <a href="/docs/CV_pp.pdf">pdf</a></strong>
+
+</td>
+
+<td style="text-align:right"><img src="/docs/pic.png" alt="me"></td>
+
+</tr>
+
+</table>
+
+<br>
+
+<br>
+
+<h1 id="Research_Papers">Publications</h1>
+
+<div class="pad-body">  
+
+<br><strong>An Empirical Dynamic Model of Trade with Consumer Accumulation</strong>, May 2020 <strong> <a href="/docs/paper_may20.pdf">pdf</a></strong><br>
+&nbsp; <em> Forthcoming, American Economic Journal: Microeconomics</em> 
+<br>
+<br>Sunk entry costs have been identified as the main export barrier by standard dynamic models of trade. However, these large entry costs are inconsistent with the existence of many small new exporters with low survival rates in foreign markets. To reconcile these patterns, this paper develops a dynamic structural model of trade in which firms slowly accumulate consumers in foreign markets. Estimating the model using export data from individual firms and a particle Markov chain Monte Carlo estimator, the model correctly predicts lower survival rates for new exporters and estimates much lower entry costs of exporting - less than half of those estimated in the absence of consumer accumulation. Using simulations and out- of-sample predictions, I show that these results have important implications regarding the aggregate response of international trade to external shocks.<br>
+  
+<br>    
+  
+<br><strong>Estimating firm product quality with trade data</strong>, joint with Gabriel Smagghue 
+<br><em> &nbsp; Journal of International Economics,</em> Volume 118, May 2019, Pages 217-232. 
+<br> &nbsp; <strong> <a href="https://doi.org/10.1016/j.jinteco.2019.02.005">Published version,</a></strong> 
+<strong> <a href="/docs/quality_paper_fev19.pdf">Latest Version,</a></strong> 
+<strong> <a href="/docs/bibtex_jie19.html">Bibtex</a></strong>    
+<br> &nbsp; Winner of the FREIT EIIT 2013 <a href="http://www.freit.org/EIIT/2015/GradComp.php">best graduate student paper</a>.
+<br>
+ 
+<br>We propose a new instrumental variable strategy to estimate product quality at the firm-level, using trade data. Interacting firm importing shares by country with real exchange rates (RER), we obtain a cost shifter that varies across firms and is arguably orthogonal to product quality. We use this import weighted RER as an instrument for export prices and we identify firm-level quality from residual export variations, after controlling for prices. Our quality estimates correlate sensibly to firm characteristics (e.g. wages) and to alternative measures of quality available for some rare sectors. By contrast, our estimates are not always consistent with prices, a popular proxy for quality. We show for instance that firms add products to their export portfolio when their quality increases, as expected, while simultaneously their prices decrease. This suggests that our empirical strategy, by delivering quality estimates which, unlike prices, are not polluted with productivity variations, should contribute to future research on the link between firm-level product quality and globalization.<br>
+  
+ <br>     
+
+</div>
+  
+<h1 id="Research_Papers">Works in Progress</h1>
+
+<div class="pad-body">
+
+ <br><strong>Foreign Competition along the Quality Ladder</strong>, November 2020 <strong> <a href="/docs/blp_chinashock_latest.pdf">pdf</a></strong>
+<br>&nbsp; Joint with Gabriel Smagghue<br>
+&nbsp; <em> Revision requested, Economic Journal</em> 
+<br>
+<br>We document that firms with low prices are more impacted by the rise of low-cost competition, even within narrowly defined product categories. To explain this pattern, we propose an empirical model of trade with random-coefficients demand and endogenous product quality. Unlike commonly used demand systems (e.g. CES, nested logit), this model generates rich substitution patterns across producers and implies an "escape-competition" effect:  in response to low-cost competition, firms may upgrade their product quality to reach segments of the market that are less exposed. The estimation, using trade data from French shoe exporters, reveals significant heterogeneity in consumer preferences based on income and unobservable characteristics. Using the estimated model to quantify the unequal impact of the "China shock", we find that Chinese competition was significantly more damaging to French firms at the bottom of the price distribution, and that quality upgrading had a limited role at mitigating the heterogenous impact of the shock.<br>  
+ <br>  
+  
+  
+  
+</div>  
+  
+<h1 id="Teaching">Teaching</h1>
+
+<div class="pad-body">
+
+<br><strong>Microeconomics</strong> (SA.300.700), <strong> <a href="/docs/Syllabus.pdf">Syllabus</a></strong><br> <em>Fall 2016, Fall 2017, Spring 2018, Fall 2018, Fall 2019, Summer 2020, Fall 2020</em><br>
+<br><strong>Advanced Microeconomics</strong> (SA.310.700), <strong> <a href="/docs/MIEFMicroSyllabus2018.pdf">Syllabus</a></strong><br> <em>Summer 2018</em><br>
+
+</div>  
+  
+</div>
+
+<div id="right-column"><br></div>
+
+</div>
+
+  
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11423711; 
+var sc_invisible=1; 
+var sc_security="4e48e632"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web statistics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="//c.statcounter.com/11423711/0/4e48e632/1/" alt="web
+statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->  
+  
+  
+</body>
+
+</html>
