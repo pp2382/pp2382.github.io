@@ -1,0 +1,11 @@
+@article{10.1257/mic.20190051,
+Author = {Piveteau, Paul},
+Title = {An Empirical Dynamic Model of Trade with Consumer Accumulation},
+Journal = {American Economic Journal: Microeconomics},
+Volume = {13},
+Number = {4},
+Year = {2021},
+Month = {November},
+Pages = {23-63},
+DOI = {10.1257/mic.20190051},
+URL = {https://www.aeaweb.org/articles?id=10.1257/mic.20190051}}
